@@ -1,6 +1,6 @@
 # Angular Tareas
 
-Proyecto "To do list" implementado con Angular 12.
+App de tareas pendientes (to do list) implementado en Angular.
 
 ## Configuración
 
